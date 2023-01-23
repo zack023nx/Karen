@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click', function() {
-    alert('Sabía que ibas a aceptar (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ, Te amo mucho')
+    alert('Sabía que ibas a aceptar')
 });
 
 const noBtn = document.querySelector('#noBtn');
